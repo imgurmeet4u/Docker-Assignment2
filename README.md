@@ -2,4 +2,4 @@
 
 ## Hello World Docker Image Run Hello World Docker Image Locally.
 
-![](images/docker_run_hello-world.JPG
+![](images/docker_run_hello-world.JPG)
